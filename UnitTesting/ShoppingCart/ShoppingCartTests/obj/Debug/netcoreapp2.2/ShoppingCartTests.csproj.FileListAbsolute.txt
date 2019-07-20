@@ -1,0 +1,17 @@
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp2.2\ShoppingCartTests.deps.json
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp2.2\ShoppingCartTests.runtimeconfig.json
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp2.2\ShoppingCartTests.runtimeconfig.dev.json
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp2.2\ShoppingCartTests.dll
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp2.2\ShoppingCartTests.pdb
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp2.2\ShoppingCart.dll
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp2.2\ShoppingCart.pdb
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\obj\Debug\netcoreapp2.2\ShoppingCartTests.csprojAssemblyReference.cache
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\obj\Debug\netcoreapp2.2\ShoppingCartTests.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\obj\Debug\netcoreapp2.2\ShoppingCartTests.AssemblyInfoInputs.cache
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\obj\Debug\netcoreapp2.2\ShoppingCartTests.AssemblyInfo.cs
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\obj\Debug\netcoreapp2.2\ShoppingCartTests.csproj.CopyComplete
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\obj\Debug\netcoreapp2.2\ShoppingCartTests.dll
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCartTests\obj\Debug\netcoreapp2.2\ShoppingCartTests.pdb

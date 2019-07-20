@@ -1,0 +1,17 @@
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCart\bin\Debug\netstandard2.0\ShoppingCart.deps.json
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCart\bin\Debug\netstandard2.0\ShoppingCart.dll
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCart\bin\Debug\netstandard2.0\ShoppingCart.pdb
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCart\obj\Debug\netstandard2.0\ShoppingCart.csprojAssemblyReference.cache
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCart\obj\Debug\netstandard2.0\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCart\obj\Debug\netstandard2.0\ShoppingCart.AssemblyInfoInputs.cache
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCart\obj\Debug\netstandard2.0\ShoppingCart.AssemblyInfo.cs
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCart\obj\Debug\netstandard2.0\ShoppingCart.dll
+D:\Dropbox\Projects\Internship\UnitTesting-InternshipSummer2019\ShoppingCart\ShoppingCart\obj\Debug\netstandard2.0\ShoppingCart.pdb
+D:\Dropbox\Projects\Internship\SummerInternship2019\UnitTesting\ShoppingCart\ShoppingCart\bin\Debug\netstandard2.0\ShoppingCart.deps.json
+D:\Dropbox\Projects\Internship\SummerInternship2019\UnitTesting\ShoppingCart\ShoppingCart\bin\Debug\netstandard2.0\ShoppingCart.dll
+D:\Dropbox\Projects\Internship\SummerInternship2019\UnitTesting\ShoppingCart\ShoppingCart\bin\Debug\netstandard2.0\ShoppingCart.pdb
+D:\Dropbox\Projects\Internship\SummerInternship2019\UnitTesting\ShoppingCart\ShoppingCart\obj\Debug\netstandard2.0\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\Internship\SummerInternship2019\UnitTesting\ShoppingCart\ShoppingCart\obj\Debug\netstandard2.0\ShoppingCart.AssemblyInfoInputs.cache
+D:\Dropbox\Projects\Internship\SummerInternship2019\UnitTesting\ShoppingCart\ShoppingCart\obj\Debug\netstandard2.0\ShoppingCart.AssemblyInfo.cs
+D:\Dropbox\Projects\Internship\SummerInternship2019\UnitTesting\ShoppingCart\ShoppingCart\obj\Debug\netstandard2.0\ShoppingCart.dll
+D:\Dropbox\Projects\Internship\SummerInternship2019\UnitTesting\ShoppingCart\ShoppingCart\obj\Debug\netstandard2.0\ShoppingCart.pdb
