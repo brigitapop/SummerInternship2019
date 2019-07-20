@@ -1,0 +1,17 @@
+D:\Dropbox\Projects\Internship\Summer\UnitTesting-InternshipSummer2019\MathExpression\bin\Debug\netcoreapp2.1\MathExpressions.deps.json
+D:\Dropbox\Projects\Internship\Summer\UnitTesting-InternshipSummer2019\MathExpression\bin\Debug\netcoreapp2.1\MathExpressions.dll
+D:\Dropbox\Projects\Internship\Summer\UnitTesting-InternshipSummer2019\MathExpression\bin\Debug\netcoreapp2.1\MathExpressions.pdb
+D:\Dropbox\Projects\Internship\Summer\UnitTesting-InternshipSummer2019\MathExpression\obj\Debug\netcoreapp2.1\MathExpressions.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\Internship\Summer\UnitTesting-InternshipSummer2019\MathExpression\obj\Debug\netcoreapp2.1\MathExpressions.AssemblyInfoInputs.cache
+D:\Dropbox\Projects\Internship\Summer\UnitTesting-InternshipSummer2019\MathExpression\obj\Debug\netcoreapp2.1\MathExpressions.AssemblyInfo.cs
+D:\Dropbox\Projects\Internship\Summer\UnitTesting-InternshipSummer2019\MathExpression\obj\Debug\netcoreapp2.1\MathExpressions.dll
+D:\Dropbox\Projects\Internship\Summer\UnitTesting-InternshipSummer2019\MathExpression\obj\Debug\netcoreapp2.1\MathExpressions.pdb
+D:\Dropbox\Projects\Internship\SummerInternship2019\MathExpression\bin\Debug\netcoreapp2.1\MathExpressions.deps.json
+D:\Dropbox\Projects\Internship\SummerInternship2019\MathExpression\bin\Debug\netcoreapp2.1\MathExpressions.dll
+D:\Dropbox\Projects\Internship\SummerInternship2019\MathExpression\bin\Debug\netcoreapp2.1\MathExpressions.pdb
+D:\Dropbox\Projects\Internship\SummerInternship2019\MathExpression\obj\Debug\netcoreapp2.1\MathExpressions.csprojAssemblyReference.cache
+D:\Dropbox\Projects\Internship\SummerInternship2019\MathExpression\obj\Debug\netcoreapp2.1\MathExpressions.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\Internship\SummerInternship2019\MathExpression\obj\Debug\netcoreapp2.1\MathExpressions.AssemblyInfoInputs.cache
+D:\Dropbox\Projects\Internship\SummerInternship2019\MathExpression\obj\Debug\netcoreapp2.1\MathExpressions.AssemblyInfo.cs
+D:\Dropbox\Projects\Internship\SummerInternship2019\MathExpression\obj\Debug\netcoreapp2.1\MathExpressions.dll
+D:\Dropbox\Projects\Internship\SummerInternship2019\MathExpression\obj\Debug\netcoreapp2.1\MathExpressions.pdb
