@@ -17,18 +17,18 @@ namespace ShoppingCartTests
         }
 
         [TestMethod]
-        public void Add_WhenAnItemsIsAdded_TheQuantityShouldBeGreaterThanZero()
+        public void AddItem_With0Quantity_IsNotAllowed()
         {
             //Arrange
             Cart cart = new Cart(_timeService.Object);
 
             //Act && Assert
             Assert.ThrowsException<Exception>(
-                () => cart.AddItem(new CartItem("Detergent", 0, 12, true)));
+                () => cart.AddItem(new CartItem(name: "Detergent", quantity: 0, price: 12, active: true)));
         }
 
         [TestMethod]
-        public void Add_ForItemsThatCostLessThan1Dollar_TheQuantityShouldBeAtLeastTwo()
+        public void AddItem_WithQuantityLessThen1AndPrice1_IsNotAllowed()
         {
             //Arrange
             Cart cart = new Cart(_timeService.Object);
@@ -39,7 +39,7 @@ namespace ShoppingCartTests
         }
 
         [TestMethod]
-        public void Add_WhenAnItemIsAdded_TheCartDateIsUpdated()
+        public void AddItem_WhenSuccessful_TheCartDateIsUpdated()
         {
             //Arrange
             _timeService.Setup(t => t.Now()).Returns(new DateTime(2019, 7, 24));
@@ -53,7 +53,7 @@ namespace ShoppingCartTests
         }
 
         [TestMethod]
-        public void Add_WhenAnItemIsAdded_TheTotalIsProperlyComputed()
+        public void AddItem_WhenAddingMultipleItems_TotalWillReflectThePriceOfTheItemsInTheCart()
         {
             //Arrange
             _timeService.Setup(t => t.Now()).Returns(new DateTime(2019, 7, 24));
@@ -89,7 +89,7 @@ namespace ShoppingCartTests
 
 
         [TestMethod]
-        public void Delete_WhenAnItemIsDeleted_TheTotalIsProperlyComputed()
+        public void Delete_WhenAnItemIsDeleted_TheTotalWillReflectThePriceOfTheRemainingItems()
         {
             //Arrange
             _timeService.Setup(t => t.Now()).Returns(new DateTime(2019, 7, 24));
