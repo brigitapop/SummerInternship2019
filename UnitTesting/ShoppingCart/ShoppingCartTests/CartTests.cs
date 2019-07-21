@@ -62,10 +62,10 @@ namespace ShoppingCartTests
             //Act
             cart.AddItem(new CartItem("Detergent", 2, 1.5, true));
             cart.AddItem(new CartItem("Vegetables", 3, 0.5, true));
-            cart.AddItem(new CartItem("Cafe", 1, 7, true));
+            cart.AddItem(new CartItem("Coffee", 1, 7, true));
 
             //
-            Assert.AreEqual(11.5, cart.Total);
+            Assert.AreEqual(11.5, cart.Total);  
         }
 
         [TestMethod]
@@ -76,7 +76,7 @@ namespace ShoppingCartTests
             Cart cart = new Cart(_timeService.Object);
             cart.AddItem(new CartItem("Detergent", 2, 1.5, true));
             cart.AddItem(new CartItem("Vegetables", 3, 0.5, true));
-            cart.AddItem(new CartItem("Cafe", 1, 7, true));
+            cart.AddItem(new CartItem("Coffee", 1, 7, true));
 
             _timeService.Setup(t => t.Now()).Returns(new DateTime(2019, 7, 22));
 
@@ -96,7 +96,7 @@ namespace ShoppingCartTests
             Cart cart = new Cart(_timeService.Object);
             cart.AddItem(new CartItem("Detergent", 2, 1.5, true));
             cart.AddItem(new CartItem("Vegetables", 3, 0.5, true));
-            cart.AddItem(new CartItem("Cafe", 1, 7, true));
+            cart.AddItem(new CartItem("Coffee", 1, 7, true));
 
             //Act
             cart.DeleteItem("Detergent");
