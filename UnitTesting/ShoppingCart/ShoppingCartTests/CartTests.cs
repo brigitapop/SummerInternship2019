@@ -28,7 +28,7 @@ namespace ShoppingCartTests
         }
 
         [TestMethod]
-        public void AddItem_WithQuantityLessThen1AndPrice1_IsNotAllowed()
+        public void AddItem_WithQuantityLessThen1AndPriceLessThen1_IsNotAllowed()
         {
             //Arrange
             Cart cart = new Cart(_timeService.Object);

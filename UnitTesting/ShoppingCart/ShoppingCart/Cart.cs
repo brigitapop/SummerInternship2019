@@ -50,9 +50,6 @@ namespace ShoppingCart
             if(item.Quantity < 1)
                 throw new Exception("Quantity should be at least one!");
 
-            //if (item.Price < 1 && item.Quantity < 2)
-            //    throw new Exception("For items that cost less then $1 you should buy 2;");
-
             _items.Add(item);
             _lastUpdate = _timeService.Now();
         }
@@ -60,7 +57,7 @@ namespace ShoppingCart
         public void DeleteItem(string name)
         {
             _items.Remove(_items.First(i => i.Name == name));
-           // _lastUpdate = _timeService.Now();
+            _lastUpdate = _timeService.Now();
         }
 
         public void UpdateItem(CartItem item, int quantity)
